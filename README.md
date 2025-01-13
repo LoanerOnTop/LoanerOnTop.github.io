@@ -1,2 +1,8 @@
 # LoanerOnTop.github.io
-This is VERY WIP so I don't really care if I get hate comments, but if I can figure out how to use Github, I will be happy. 
+WIP Project
+Instructions:
+1. Click "Code"
+2. Click "Download Zip"
+3. Go to files
+4. Open the Zip
+5. Click the Game you want to play
